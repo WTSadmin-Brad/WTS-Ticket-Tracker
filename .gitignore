@@ -1,0 +1,8 @@
+# Raw scraped thumbnails (temporary, not needed for site)
+images/raw/
+images/contact_sheets/
+images/curated/
+
+# Python
+__pycache__/
+*.pyc

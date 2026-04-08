@@ -1,0 +1,700 @@
+{
+  "big-hero-6": {
+    "keepers": [
+      149,
+      593,
+      741,
+      889,
+      1185,
+      1333,
+      1703,
+      1999,
+      2221,
+      2369,
+      2591,
+      3183
+    ],
+    "style_desc": "San Fransokyo \u2014 a mashup of San Francisco Victorian architecture and Tokyo neon urbanism. Warm garage/workshop interiors, glowing tech labs, busy multicultural streetscapes, and dramatic bay views. Rich material palette mixing wood, metal, and holographic tech."
+  },
+  "toy-story": {
+    "keepers": [
+      62,
+      184,
+      489,
+      611,
+      916,
+      1038,
+      1221,
+      1343,
+      1709,
+      2014,
+      2136,
+      2929
+    ],
+    "style_desc": "Warm, saturated suburban interiors seen from toy-scale perspective. Rich wood floors, colorful bedroom walls, and domestic clutter rendered with early-Pixar charm. Every surface \u2014 carpet, wallpaper, plastic \u2014 has tactile character."
+  },
+  "the-incredibles": {
+    "keepers": [
+      259,
+      517,
+      861,
+      947,
+      1033,
+      1119,
+      1463,
+      1635,
+      1807,
+      2495,
+      2839,
+      3269,
+      3527
+    ],
+    "style_desc": "Mid-century modern architecture meets retro-futurism. Warm suburban interiors with clean geometric lines, dramatic night cityscapes with noir-inspired lighting, and sleek volcanic island facility environments with industrial brutalist detailing."
+  },
+  "incredibles-2": {
+    "keepers": [
+      1,
+      175,
+      436,
+      784,
+      871,
+      1132,
+      1219,
+      1393,
+      2872,
+      3307,
+      3394,
+      3742
+    ],
+    "style_desc": "Upgraded mid-century aesthetic with richer material detail. Warm domestic interiors, neon-lit urban nightscapes, and ultra-modern glass-and-steel architecture. Notable for its sophisticated lighting \u2014 warm ambers in homes contrasting with cool blues in tech environments."
+  },
+  "toy-story-2": {
+    "keepers": [
+      73,
+      361,
+      649,
+      937,
+      1225,
+      1513,
+      1801,
+      2017,
+      2305,
+      2665,
+      3025,
+      3313
+    ],
+    "style_desc": "Expanded domestic environments with richer detail. Toy collector's apartment with glass display cases, a bustling toy store, and airport terminal. Warmer, more polished lighting than the original with better material rendering."
+  },
+  "toy-story-3": {
+    "keepers": [
+      1,
+      313,
+      625,
+      937,
+      1249,
+      1561,
+      1873,
+      2263,
+      2575,
+      2887,
+      3199,
+      3511
+    ],
+    "style_desc": "Daycare center environments with institutional pastels, a dark garbage facility with dramatic volumetric lighting, and cozy attic spaces. Notable for emotional lighting shifts \u2014 warm nostalgia to cold industrial fear."
+  },
+  "toy-story-4": {
+    "keepers": [
+      1,
+      366,
+      731,
+      950,
+      1169,
+      1388,
+      1607,
+      1826,
+      2045,
+      2264,
+      2702,
+      3067
+    ],
+    "style_desc": "Antique shop interiors with gorgeous dusty volumetric light, carnival/fairground neon, and open road landscapes. The most cinematically lit Toy Story film \u2014 rich depth of field, god rays, and atmospheric haze."
+  },
+  "ratatouille": {
+    "keepers": [
+      85,
+      169,
+      589,
+      925,
+      1009,
+      1177,
+      1513,
+      1849,
+      2101,
+      2689,
+      3193,
+      3529
+    ],
+    "style_desc": "Parisian rooftops, cobblestone streets, and warm bistro interiors. Professional kitchen environments with gleaming copper and stainless steel. Wet nighttime Paris streets reflecting warm window light. The food environments are material-reference gold."
+  },
+  "soul": {
+    "keepers": [
+      79,
+      391,
+      703,
+      937,
+      1093,
+      1327,
+      1405,
+      1717,
+      2029,
+      2341,
+      2419,
+      3121
+    ],
+    "style_desc": "Dual aesthetic: warm, textured New York jazz clubs and apartments vs. ethereal pastel Great Before/Great Beyond environments. The Earth scenes have incredible urban material detail \u2014 brick, neon, autumn foliage. The soul world uses soft gradients and geometric abstraction."
+  },
+  "turning-red": {
+    "keepers": [
+      1,
+      313,
+      625,
+      937,
+      1249,
+      1639,
+      1951,
+      2263,
+      2575,
+      2887,
+      3199,
+      3589
+    ],
+    "style_desc": "Early-2000s Toronto Chinatown with vivid reds, pinks, and teals. Detailed bedroom environments packed with era-specific clutter, traditional Chinese temple interiors, and colorful school hallways. Extremely high material density \u2014 every surface is busy and textured."
+  },
+  "luca": {
+    "keepers": [
+      1,
+      366,
+      658,
+      877,
+      1242,
+      1534,
+      1826,
+      2118,
+      2337,
+      2629,
+      2994,
+      3359
+    ],
+    "style_desc": "Italian Riviera sun-drenched coastal village. Warm terracotta, sun-bleached stucco, turquoise Mediterranean water. Piazza environments with market stalls, narrow stone alleyways, and rustic kitchens. Gorgeous underwater sequences with caustic light patterns."
+  },
+  "coco": {
+    "keepers": [
+      1,
+      226,
+      601,
+      826,
+      1201,
+      1501,
+      1876,
+      2401,
+      2626,
+      2926,
+      3151,
+      3451
+    ],
+    "style_desc": "Vibrant Mexican Day of the Dead aesthetic. The Land of the Dead is a vertical neon city with marigold bridges and skeletal architecture. Living-world scenes feature warm adobe interiors, workshop environments with handcrafted instruments, and candlelit altars."
+  },
+  "inside-out": {
+    "keepers": [
+      1,
+      293,
+      585,
+      877,
+      1169,
+      1461,
+      1753,
+      2118,
+      2410,
+      2702,
+      2994,
+      3286
+    ],
+    "style_desc": "Headquarters \u2014 a modernist control room with glowing console panels. The mind-world environments range from candy-colored abstract landscapes to structured memory vaults. Notable for its bold color-coded emotional lighting."
+  },
+  "inside-out-2": {
+    "keepers": [
+      76,
+      301,
+      601,
+      901,
+      1276,
+      1651,
+      1951,
+      2251,
+      2551,
+      2851,
+      3151,
+      3451
+    ],
+    "style_desc": "Expanded mind architecture with more complex emotional spaces. New environments include anxiety's projection room, the vault of secrets, and reimagined belief systems rendered as physical structures. Richer material detail than the original."
+  },
+  "elemental": {
+    "keepers": [
+      1,
+      317,
+      633,
+      949,
+      1265,
+      1581,
+      1976,
+      2292,
+      2608,
+      2924,
+      3240,
+      3556
+    ],
+    "style_desc": "Element City \u2014 a metropolis designed around fire, water, earth, and air inhabitants. Fire district has warm glass and metal architecture, water district has fluid transparent structures. Incredible material challenges \u2014 translucent water characters, luminous fire environments."
+  },
+  "onward": {
+    "keepers": [
+      1,
+      223,
+      519,
+      815,
+      1037,
+      1333,
+      1629,
+      1851,
+      2147,
+      2517,
+      2739,
+      3405
+    ],
+    "style_desc": "Suburban fantasy world where magic was replaced by technology. Split-level homes, strip malls, and gas stations coexist with remnants of medieval architecture. A unique material palette \u2014 mundane vinyl siding next to ancient stone ruins."
+  },
+  "strange-world": {
+    "keepers": [
+      1,
+      223,
+      519,
+      815,
+      1111,
+      1407,
+      1703,
+      1999,
+      2295,
+      2739,
+      3109,
+      3405
+    ],
+    "style_desc": "Bioluminescent underground cavern world with organic alien landscapes. Above ground: retro-futuristic Art Deco farming community. The subterranean environments feature incredible organic material design \u2014 membrane walls, luminous flora, and living terrain."
+  },
+  "encanto": {
+    "keepers": [
+      1,
+      475,
+      712,
+      949,
+      1186,
+      1423,
+      1818,
+      2213,
+      2450,
+      2766,
+      3003,
+      3477
+    ],
+    "style_desc": "Colombian casita (magical house) with warm terracotta tiles, hand-painted ceramic details, and lush tropical vegetation integrated into architecture. Each magical room has a distinct biome \u2014 desert, jungle, rain. Incredibly dense decorative surfaces."
+  },
+  "frozen": {
+    "keepers": [
+      1,
+      439,
+      731,
+      950,
+      1242,
+      1461,
+      1753,
+      2045,
+      2264,
+      2556,
+      2848,
+      3213
+    ],
+    "style_desc": "Norwegian-inspired ice palace architecture with crystalline transparency and refraction. Arendelle features warm wooden castle interiors and snowy mountain landscapes. The ice environments are material-reference highlights \u2014 subsurface scattering, caustics, frost patterns."
+  },
+  "frozen-ii": {
+    "keepers": [
+      1,
+      220,
+      439,
+      950,
+      1169,
+      1388,
+      1680,
+      1972,
+      2483,
+      2994,
+      3213,
+      3432
+    ],
+    "style_desc": "Expanded Nordic environments \u2014 enchanted forest with autumn colors, dark sea caves, and ancient runic architecture. The elemental environments (water horse, fire lizard habitats) push material rendering further. Moodier, more dramatic lighting than the original."
+  },
+  "wreck-it-ralph": {
+    "keepers": [
+      1,
+      226,
+      601,
+      901,
+      1201,
+      1426,
+      1726,
+      2176,
+      2476,
+      2701,
+      3151,
+      3451
+    ],
+    "style_desc": "Retro arcade game worlds \u2014 each game is a distinct environment: 8-bit pixel landscapes, candy-themed racing tracks (Sugar Rush), and gritty FPS military bases. Incredible variety in material styles, from glossy candy to matte concrete."
+  },
+  "ralph-breaks-the-internet": {
+    "keepers": [
+      81,
+      321,
+      641,
+      961,
+      1281,
+      1681,
+      2001,
+      2241,
+      2561,
+      2881,
+      3201,
+      3521
+    ],
+    "style_desc": "The internet visualized as a vast metropolis of brand architecture and data streams. Social media platforms as physical spaces, the dark web as a gritty underworld. Neon, glass, and holographic materials dominate."
+  },
+  "mitchells-vs-machines": {
+    "keepers": [
+      1,
+      262,
+      610,
+      958,
+      1306,
+      1741,
+      2089,
+      2437,
+      2785,
+      3220,
+      3568,
+      3916
+    ],
+    "style_desc": "Hand-painted texture overlays on 3D renders \u2014 a unique hybrid style. Suburban American homes with messy, lived-in detail. Robot apocalypse environments with sleek tech contrasting against cozy domestic chaos. Sketch-like line work adds graphic novel energy."
+  },
+  "spider-man-into-spider-verse": {
+    "keepers": [
+      1,
+      259,
+      517,
+      861,
+      1119,
+      1549,
+      1807,
+      2065,
+      2667,
+      3183,
+      3699,
+      3957
+    ],
+    "style_desc": "Comic book printing artifacts as a visual language \u2014 halftone dots, CMYK color shifts, misregistration effects. Multiple art styles collide: noir, anime, cartoon, watercolor. Dense urban environments with incredible graphic texture work."
+  },
+  "despicable-me": {
+    "keepers": [
+      73,
+      361,
+      649,
+      937,
+      1225,
+      1513,
+      1801,
+      2089,
+      2377,
+      2737,
+      3025,
+      3313
+    ],
+    "style_desc": "Exaggerated suburban environments with a cartoonish skew. Gru's villain lair is Gothic-industrial beneath a suburban facade. The orphanage is deliberately dreary. Bold color contrasts between warm domestic and cold villain spaces."
+  },
+  "despicable-me-2": {
+    "keepers": [
+      1,
+      169,
+      337,
+      505,
+      673,
+      841,
+      1051,
+      1219,
+      1387,
+      1555,
+      1723,
+      1891
+    ],
+    "style_desc": "More polished environments than the original. Shopping mall interiors, Mexican restaurant settings, and high-tech villain lairs. The underwater base has nice industrial material work with dramatic colored lighting."
+  },
+  "despicable-me-3": {
+    "keepers": [
+      1,
+      221,
+      441,
+      661,
+      881,
+      1101,
+      1321,
+      1541,
+      1761,
+      1981,
+      2201,
+      2421
+    ],
+    "style_desc": "European village environments with Mediterranean charm alongside 80s-inspired villain lair with neon and chrome. Nice contrast between sun-drenched coastal town and retro-tech interior environments."
+  },
+  "sing": {
+    "keepers": [
+      81,
+      321,
+      641,
+      1041,
+      1361,
+      1681,
+      2001,
+      2321,
+      2641,
+      2961,
+      3281,
+      3601
+    ],
+    "style_desc": "Art Deco theater interiors \u2014 gorgeous stage environments with dramatic spotlight lighting. Urban cityscapes with neon signage. The Moon Theatre has incredible architectural detail with ornate molding, velvet, and gilded surfaces."
+  },
+  "sing-2": {
+    "keepers": [
+      1,
+      353,
+      705,
+      1057,
+      1409,
+      1761,
+      2113,
+      2465,
+      2905,
+      3257,
+      3609,
+      3961
+    ],
+    "style_desc": "Las Vegas-inspired entertainment resort with over-the-top luxury interiors. Crystal City's entertainment complex has dramatic stage environments with pyrotechnics and LED walls. Richer, more extravagant material palette than the original."
+  },
+  "secret-life-of-pets": {
+    "keepers": [
+      1,
+      193,
+      449,
+      705,
+      961,
+      1217,
+      1601,
+      1793,
+      2049,
+      2305,
+      2561,
+      2945
+    ],
+    "style_desc": "Manhattan apartment interiors seen from pet perspective \u2014 furniture, kitchen counters, and windowsills become landscapes. Detailed New York City streets, Central Park, and underground sewer environments. Nice domestic material rendering."
+  },
+  "secret-life-of-pets-2": {
+    "keepers": [
+      1,
+      253,
+      505,
+      757,
+      1009,
+      1261,
+      1513,
+      1765,
+      2017,
+      2332,
+      2647,
+      2899
+    ],
+    "style_desc": "Expanded environments including rural farm settings, circus interiors, and urban veterinary offices. The farm sequences have nice natural lighting and rustic material work \u2014 barns, fences, hay."
+  },
+  "rons-gone-wrong": {
+    "keepers": [
+      1,
+      345,
+      689,
+      1033,
+      1377,
+      1721,
+      2151,
+      2495,
+      2839,
+      3183,
+      3527,
+      3871
+    ],
+    "style_desc": "Modern tech-company campus architecture alongside middle-school environments. Barney's cluttered bedroom and family junkyard home contrast with Bubble's sleek corporate headquarters. Nice contrast between messy organic and clean digital spaces."
+  },
+  "hotel-transylvania": {
+    "keepers": [
+      1,
+      273,
+      613,
+      817,
+      1021,
+      1225,
+      1429,
+      1837,
+      2245,
+      2585,
+      2789,
+      3129
+    ],
+    "style_desc": "Gothic castle interiors with a comedic twist \u2014 ornate stone walls, torch-lit corridors, and grand ballrooms. The monster hotel has incredible architectural detail with gargoyles, stained glass, and cobweb-covered chandeliers."
+  },
+  "hotel-transylvania-2": {
+    "keepers": [
+      1,
+      265,
+      529,
+      793,
+      1057,
+      1387,
+      1651,
+      1915,
+      2245,
+      2509,
+      2773,
+      3037
+    ],
+    "style_desc": "Expanded castle environments plus suburban California settings. The contrast between Gothic monster architecture and modern tract housing creates interesting material juxtapositions. Updated lighting with richer atmospheric effects."
+  },
+  "hotel-transylvania-3": {
+    "keepers": [
+      73,
+      361,
+      649,
+      937,
+      1225,
+      1513,
+      1801,
+      2089,
+      2377,
+      2665,
+      2953,
+      3241
+    ],
+    "style_desc": "Cruise ship environments \u2014 luxury liner interiors with nautical Art Deco styling. Atlantis underwater city with bioluminescent coral architecture. Nice water material rendering in ocean sequences."
+  },
+  "hotel-transylvania-transformania": {
+    "keepers": [
+      1,
+      277,
+      553,
+      829,
+      1105,
+      1381,
+      1726,
+      2002,
+      2278,
+      2554,
+      2830,
+      3106
+    ],
+    "style_desc": "South American jungle temple environments alongside the familiar castle. Ancient Mayan-inspired ruins with overgrown vegetation. The transformation sequences create interesting material transitions between monster and human textures."
+  },
+  "monsters-university": {
+    "keepers": [
+      1,
+      226,
+      601,
+      976,
+      1201,
+      1426,
+      2026,
+      2251,
+      2476,
+      2776,
+      3151,
+      3376
+    ],
+    "style_desc": "College campus architecture \u2014 ivy-covered Gothic buildings, fraternity houses, and scare simulator training facilities. Nice institutional material work \u2014 polished floors, brick facades, stadium seating. Warm campus lighting."
+  },
+  "monsters-inc": {
+    "keepers": [
+      69,
+      409,
+      681,
+      953,
+      1225,
+      1497,
+      1769,
+      2041,
+      2313,
+      2585,
+      2857,
+      3129
+    ],
+    "style_desc": "Industrial factory environments \u2014 the scare floor with its door vault system, locker rooms, and corporate offices. Monster world city streets with organic architecture. Notable for its early demonstration of fur, scales, and skin material rendering."
+  },
+  "nimona": {
+    "keepers": [
+      75,
+      223,
+      445,
+      593,
+      815,
+      963,
+      2147,
+      2443,
+      2665,
+      2813,
+      3109,
+      3331
+    ],
+    "style_desc": "Medieval-futuristic mashup \u2014 castle architecture with holographic technology. Stark institutional environments contrast with underground punk hideouts. The shape-shifting sequences create wild material transformations. Bold graphic style with limited texture detail."
+  },
+  "tmnt-mutant-mayhem": {
+    "keepers": [
+      80,
+      159,
+      396,
+      791,
+      1265,
+      1897,
+      2213,
+      2371,
+      2529,
+      3161,
+      3477,
+      3714
+    ],
+    "style_desc": "Gritty, hand-drawn texture style over 3D geometry. Underground sewer lair environments, New York City streets at night, and villain laboratory spaces. The sketch-like rendering gives surfaces a raw, tactile quality unique in animation."
+  },
+  "the-bad-guys": {
+    "keepers": [
+      1,
+      337,
+      673,
+      1009,
+      1345,
+      1681,
+      2101,
+      2437,
+      2773,
+      3109,
+      3445,
+      3781
+    ],
+    "style_desc": "Retro-cool heist movie aesthetic with mid-century modern interiors, sleek getaway vehicles, and high-security vault environments. Warm sunset color palettes with dramatic noir lighting. Clean geometric architecture with rich material surfaces."
+  }
+}
